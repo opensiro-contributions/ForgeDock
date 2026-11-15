@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "forgedock-issue-stage-reconciliation",
+  "original_repository": "RapierCraftStudios/ForgeDock",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/data/assessment-candidate-batches/2026-10-22-07.json",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/forgedock/CONTRIBUTION_HANDOFF.md"
+  ],
+  "title": "Reject equal-version remote state divergence",
+  "work_state": "BLOCKED",
+  "next_action": "Unpublished native technical packet; no external publication or engineering until owner RESUME and exact-action authorization",
+  "source_revision": "f5bfeeedf6baadd94aea1e6769f69abd45080016",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/forgedock/CONTRIBUTION_HANDOFF.md",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/forgedock/equal-version-remote-divergence.patch"
+  ],
+  "work_branches": [],
+  "external_prs": [],
+  "last_event_id": null
+}
